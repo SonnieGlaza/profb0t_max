@@ -1,0 +1,9 @@
+vk_api
+psycopg2-binary
+SQLAlchemy
+python-dotenv
+openpyxl
+maxapi 
+aiohttp
+git+https://github.com/max-messenger/max-botapi-python.git
+certifi
